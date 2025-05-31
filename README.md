@@ -7,3 +7,4 @@ account
 
 - play classic
 - create python libraries composer, styles, piece
+- routines assistant composer, styles, piece
