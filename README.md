@@ -1,6 +1,6 @@
 # pop-classics
 publish morceau classic/pop
-- video credits
+- fake or not video credits
 - python libraries / rails active record (bdd) composer, epoch or style,piece
 - album with artist and tracks
 
