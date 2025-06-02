@@ -1,10 +1,8 @@
 # pop-classics
-account 
-- beatles, compositeur
-- listen pop music, or clasics
-- video gmaes
-- hacker iphone
+publish morceau classic/pop
+- video credits
+- python libraries / rails active record (bdd) composer, epoch or style,piece
+- album with artist and tracks
 
-- play classic
-- create python libraries composer, styles, piece
-- routines assistant composer, styles, piece
+- choiisir 1 hobby : video game, science, clothes, sport, travel
+- create scaffold or active record
